@@ -1,32 +1,32 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/molessom-8/molessom-/master/README.md",
+  "title": "Zakarya ElQ",
+  "name": "Zakarya ElQ",
+  "ascii": "Zakarya ElQ",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "molessom-8",
+    "linkedin": "zakarya.elquaroui"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "elquaraoui@gmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "welcome",
+  "repo": "https://github.com/molessom-8",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/zakariaelquaroui",
+    "patreon": "https://patreon.com/molomo"
   },
   "colors": {
-    "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
-    },
     "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    },
+    "oldDark": {
       "background": "#2E3440",
       "foreground": "#E5E9F0",
       "yellow": "#5E81AC",
