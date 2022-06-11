@@ -5,7 +5,7 @@ Highly customizable, easy-to-use, and minimal terminal styled website template, 
 Building a simple website with LiveTerm only takes **minutes**, and you only need to work with **one** file: `config.json`. After you cloned this repository, simply run `yarn install && yarn dev` and start editing `config.json` to build your website!
 
 LiveTerm can be used to build a variety of websites:
-
+![screenshot](https://user-images.githubusercontent.com/81950204/173176995-13140d63-95e1-4eaa-bd14-9213fab82613.png)
 - [personal website](https://portoflio-molessom.vercel.app/)
 - or maybe just a cool browser music player...be creative!
 
@@ -19,7 +19,6 @@ Feel free to play with the web demo above!
 </p>
 
 <p align="center">
-![screenshot](https://user-images.githubusercontent.com/81950204/173176995-13140d63-95e1-4eaa-bd14-9213fab82613.png)
 <strong><a href="https://portoflio-molessom.vercel.app/" target=_blank>my personal website</a></strong>
 </p>
 
